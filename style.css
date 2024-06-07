@@ -39,6 +39,13 @@ p {
   line-height: 1.5;
 }
 
+
+#pete {text-align: left}
+#abstractred {text-align: center}
+#spiralzany {text-align: center}
+#meltedrainbow {text-align: center}
+
+
 /* The div container constrains the content width within the main container to 600px */
 div {
   margin: auto;
@@ -53,6 +60,7 @@ img {
 
 hr {
   border: 1px solid black;
+  width: 50%;
 
 }
 
